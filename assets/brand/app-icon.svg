@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <title>Always Bot</title>
+  <defs>
+    <mask id="gap" maskUnits="userSpaceOnUse" x="0" y="0" width="120" height="120">
+      <rect x="0" y="0" width="120" height="120" fill="#FFFFFF"/>
+      <circle cx="102" cy="60" r="11" fill="#000000"/>
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="120" height="120" rx="0" fill="#000000"/>
+  <path d="M60,60 C76,36 102,38 102,60 C102,82 76,84 60,60 C44,36 18,38 18,60 C18,82 44,84 60,60Z" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" mask="url(#gap)"/>
+  <circle cx="102" cy="60" r="7" fill="#2F5BFF"/>
+</svg>
